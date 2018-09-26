@@ -14,6 +14,9 @@ Chiasenhac.vn Playlist
 
 <!-- /TOC -->
 
+![image](https://user-images.githubusercontent.com/7277418/46050272-552e0a00-c15d-11e8-9fed-79c02ec2209c.png)
+
+
 ## Shortcut Keys (Phím tắt)
 
 #### Phím tắt mặc định
